@@ -13,14 +13,28 @@ const Projects = () => {
               <div className="card-body text-center">
                 <h5 className="card-title fw-bold">🌐 Portfolio Website</h5>
                 <p className="card-text">A personal website built with React and Bootstrap.</p>
-                <a href="#" className="btn btn-primary btn-sm me-2">Live Demo</a>
-                <a href="#" className="btn btn-outline-light btn-sm">GitHub</a>
+                <a
+                  href="https://patepayal289.github.io/my-portfolio" // Live Demo link
+                  className="btn btn-primary btn-sm me-2"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Live Demo
+                </a>
+                <a
+                  href="https://github.com/patepayal289/my-portfolio" // GitHub link
+                  className="btn btn-outline-light btn-sm"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
               </div>
             </div>
           </div>
 
           {/* Project 2 */}
-          <div className="col-md-4 mb-4">
+          {/* <div className="col-md-4 mb-4">
             <div className="card bg-dark text-light h-100 shadow border-light">
               <div className="card-body text-center">
                 <h5 className="card-title fw-bold">☁️ Weather Vibes</h5>
@@ -43,10 +57,10 @@ const Projects = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
 
-          {/* Project 4 - Mini Course Platform */}
-          <div className="col-md-4 mb-4">
+          {/* Project 3 */}
+          {/* <div className="col-md-4 mb-4">
             <div className="card bg-dark text-light h-100 shadow border-light">
               <div className="card-body text-center">
                 <h5 className="card-title fw-bold">📚 Mini Course Platform</h5>
@@ -69,16 +83,16 @@ const Projects = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
 
-          {/* Project 5 - Notes App */}
+          {/* Project 4 */}
           <div className="col-md-4 mb-4">
             <div className="card bg-dark text-light h-100 shadow border-light">
               <div className="card-body text-center">
                 <h5 className="card-title fw-bold">📝 Notes App</h5>
                 <p className="card-text">A simple and efficient notes app built with React, Firebase for authentication, and local storage.</p>
                 <a
-                  href="https://patepayal289.github.io/notesapp"
+                  href="https://rajptl12.github.io/noteapp/"
                   className="btn btn-primary btn-sm me-2"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -86,7 +100,33 @@ const Projects = () => {
                   Live Demo
                 </a>
                 <a
-                  href="https://github.com/patepayal289/notesapp"
+                  href="https://github.com/rajptl12/noteapp"
+                  className="btn btn-outline-light btn-sm"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/* Project 5 - Feedback Form */}
+          <div className="col-md-4 mb-4">
+            <div className="card bg-dark text-light h-100 shadow border-light">
+              <div className="card-body text-center">
+                <h5 className="card-title fw-bold">📝 Feedback Form</h5>
+                <p className="card-text">A feedback form app built with React, Firebase, and Bootstrap to collect user feedback.</p>
+                <a
+                  href="https://rajptl12.github.io/feedback-form-"
+                  className="btn btn-primary btn-sm me-2"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Live Demo
+                </a>
+                <a
+                  href="https://github.com/rajptl12/feedback-form"
                   className="btn btn-outline-light btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"

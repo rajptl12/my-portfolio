@@ -7,9 +7,7 @@ const AboutSection = () => {
       <div className="container text-center">
         <h2 className="mb-4 fw-bold">About Me</h2>
         <p className="lead">
-          👋 Hi, I'm <span className="text-primary fw-bold">Payal Keyur Patel</span>, a dedicated web developer
-          currently working at CVMU University. I specialize in building responsive,
-          modern web apps using both front-end and back-end technologies.
+          👋 Hi, I'm <span className="text-primary fw-bold">Raj Upendrabhai Patel</span>,Super excited to begin my Master’s in IT at Montclair State University!
         </p>
 
         <div className="row justify-content-center mt-5">
@@ -17,8 +15,9 @@ const AboutSection = () => {
             <div className="glass-card h-100">
               <h5 className="mb-3">🎓 Education</h5>
               <p>
-                <strong>Bachelor in IT</strong>, CVMU – 7.84 CGPA (2021–2024)<br />
-                <strong>Diploma in IT</strong>, GTU – 9.52 CGPA (2019–2021)<br />
+                <strong>Masters in IT</strong>, Montclair State University – Ongoing<br />
+                <strong>Bachelor in IT</strong>, CVMU – 8.84 CGPA (2021–2024)<br />
+                
                
               </p>
             </div>

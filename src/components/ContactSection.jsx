@@ -8,12 +8,12 @@ const Contact = () => {
         <p className="lead">
           Email me at{' '}
           <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=your.payu34444@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=your.patelrj539@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-info fw-bold"
           >
-           payu3444@gmail.com
+           patelrj539@gmail.com
           </a>
         </p>
       </div>
