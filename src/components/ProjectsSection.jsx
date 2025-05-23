@@ -14,7 +14,7 @@ const Projects = () => {
                 <h5 className="card-title fw-bold">🌐 Portfolio Website</h5>
                 <p className="card-text">A personal website built with React and Bootstrap.</p>
                 <a
-                  href="https://patepayal289.github.io/my-portfolio" // Live Demo link
+                  href="https://github.com/rajptl12/my-portfolio" // Live Demo link
                   className="btn btn-primary btn-sm me-2"
                   target="_blank"
                   rel="noopener noreferrer"
